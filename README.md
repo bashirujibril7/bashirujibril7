@@ -3,7 +3,6 @@
  <head>
   <title>My Journey to HTML</title>
  </head>
-  <body>
 
    <h1 style="border: 6px solid MidnightBlue; background-color:DimGrey; color:FloralWhite; font-size:300%; text-align:center"> From Beginning to... (The End)</h1>
    <p>I want to start from BASICS, MASTER HTML, and continue learning day by day.<br>...you got this BASH.</p>
