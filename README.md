@@ -11,7 +11,7 @@
    <p>Don't skip tutorial videos, they are part of the process(no-pain no-gain).</p>
    <h2 style="border: 6px solid DimGrey;text-align:center; color:FloralWhite; background-color:MidnightBlue;"> Coding as a Pro.</h2>
    <p> To add <b>HTML links</b>, we need the <a> tag. The link's destination is specified in the <b>href attributes</b> <i>which used to  provide additional information about</i> <b>HTML</b> <i>elements</i>.</p>
-   <a title="to mail us"; href="bashirujibrilharuna@gmail.com"> Click here </a><l>for more information</l>
+   <a title="to mail us"; href="atbu.safrecords.com"> Click here </a><l>for more information</l>
    <br> <img src="img_girl.jpg" alt="girl with a jacket" width="300" height="300">
    <h2 style="border: 6px solid DimGrey; text-align:center; color:FloralWhite; background-color:MidnightBlue;"> Cited Element</h2>
    <p>The HTML cite element defines the title of a work.</p>
