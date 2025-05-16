@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html style="background-color:powderblue;" lang="en">
- <head>My Journey to HTML
-  <title>Page Title</title>
+ <head>
+  <title>My Journey to HTML</title>
  </head>
   <body>
 
